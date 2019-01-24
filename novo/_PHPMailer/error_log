@@ -1,0 +1,12 @@
+[11-Dec-2018 19:35:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PHPMailer\PHPMailer\PHPMailer::Body() in /home3/isaqueco/API/mailer/index.php:70
+Stack trace:
+#0 {main}
+  thrown in /home3/isaqueco/API/mailer/index.php on line 70
+[11-Dec-2018 19:35:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PHPMailer\PHPMailer\PHPMailer::Body() in /home3/isaqueco/API/mailer/index.php:70
+Stack trace:
+#0 {main}
+  thrown in /home3/isaqueco/API/mailer/index.php on line 70
+[11-Dec-2018 19:36:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PHPMailer\PHPMailer\PHPMailer::Body() in /home3/isaqueco/API/mailer/index.php:70
+Stack trace:
+#0 {main}
+  thrown in /home3/isaqueco/API/mailer/index.php on line 70
